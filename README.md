@@ -15,4 +15,4 @@ Ich bin *Esther* - ein Mensch.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marceljenner&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=estherbuenger&show_icons=true&hide_border=true)
